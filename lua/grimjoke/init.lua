@@ -1,0 +1,8 @@
+require('grimjoke.telescope')
+require('grimjoke.lspconfig')
+require('grimjoke.cmp')
+require('grimjoke.lsp')
+require('grimjoke.keymaps')
+require('grimjoke.treesitter')
+require('grimjoke.nvim-tree')
+require('grimjoke.gitsigns')
